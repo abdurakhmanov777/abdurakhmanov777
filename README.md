@@ -1,4 +1,4 @@
-### I am a Python Developer and a Student at BMSTU
+### I am a Developer and a Student at BMSTU
 
 ---
 
