@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dalgat%20Abdurakhmanov&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Developer%20%C2%B7%20BMSTU%20Student&descAlignY=52&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1113,45:5D4B35,100:D89B3A&height=180&section=header&text=Dalgat%20Abdurakhmanov&fontSize=42&fontColor=F5E7CE&fontAlignY=32&desc=Developer%20%C2%B7%20BMSTU%20Student&descAlignY=52&descSize=16" width="100%" alt="header" />
 
 <a href="https://t.me/abdurakhmanov777">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+aiogram;Telegram+bots+%26+web+apps;Async+backends+and+clean+architecture" alt="typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=E8B45C&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+aiogram;Telegram+bots+%26+web+apps;Async+backends+and+clean+architecture" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A8721C&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+aiogram;Telegram+bots+%26+web+apps;Async+backends+and+clean+architecture" alt="typing" />
+  </picture>
 </a>
 
 </div>
@@ -118,12 +121,12 @@ class Developer:
 
 <br />
 
-![profile views](https://komarev.com/ghpvc/?username=abdurakhmanov777&style=flat-square&color=58a6ff&label=Profile+views)
+![profile views](https://komarev.com/ghpvc/?username=abdurakhmanov777&style=flat-square&color=d89b3a&label=Profile+views)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D89B3A,55:5D4B35,100:0F1113&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
