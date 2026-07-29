@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1113,45:5D4B35,100:D89B3A&height=180&section=header&text=Dalgat%20Abdurakhmanov&fontSize=42&fontColor=F5E7CE&fontAlignY=32&desc=Developer%20%C2%B7%20BMSTU%20Student&descAlignY=52&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F1113,45:5D4B35,100:D89B3A&height=180&section=header&text=Dalgat%20Abdurakhmanov&fontSize=42&fontColor=F5E7CE&fontAlignY=38&desc=Developer%20%C2%B7%20BMSTU%20Student&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://t.me/abdurakhmanov777">
   <picture>
@@ -127,6 +127,6 @@ class Developer:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D89B3A,55:5D4B35,100:0F1113&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D89B3A,55:5D4B35,100:0F1113&height=60&section=footer" width="100%" alt="footer" />
 
 </div>
