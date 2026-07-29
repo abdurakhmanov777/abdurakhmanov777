@@ -72,19 +72,6 @@ contact:   t.me/abdurakhmanov777
 
 ---
 
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdurakhmanov777&hide_border=true&background=00000000&ring=D89B3A&fire=D89B3A&currStreakLabel=D89B3A&currStreakNum=F5E7CE&sideNums=F5E7CE&sideLabels=A8A29A&dates=8A857D&stroke=D89B3A" />
-  <img src="https://streak-stats.demolab.com?user=abdurakhmanov777&hide_border=true&background=00000000&ring=A8721C&fire=A8721C&currStreakLabel=A8721C&currStreakNum=1F2328&sideNums=1F2328&sideLabels=57606A&dates=6E7781&stroke=D0C4A8" alt="streak" />
-</picture>
-
-</div>
-
----
-
 ## Contacts
 
 <div align="center">
